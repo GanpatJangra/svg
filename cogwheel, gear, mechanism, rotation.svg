@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M90,54.998V45h-6.661c-0.379-2.553-1.033-5.015-1.951-7.349l5.753-3.32l-4.998-8.66l-5.756,3.322
+	c-1.586-1.991-3.39-3.793-5.379-5.379l3.322-5.755l-8.659-5.001l-3.323,5.757c-2.334-0.92-4.794-1.572-7.348-1.953V10H45v6.661
+	c-2.554,0.381-5.014,1.033-7.346,1.953l-3.325-5.755l-8.657,4.999l3.321,5.755c-1.989,1.586-3.793,3.388-5.378,5.379l-5.756-3.322
+	l-4.999,8.66l5.755,3.322c-0.918,2.332-1.573,4.794-1.952,7.347H10v9.999h6.662c0.379,2.555,1.034,5.016,1.952,7.351l-5.755,3.322
+	l4.999,8.658l5.753-3.322c1.588,1.99,3.39,3.795,5.381,5.381l-3.321,5.754l8.657,4.999l3.321-5.755
+	c2.336,0.92,4.796,1.576,7.35,1.955V90h10v-6.659c2.554-0.379,5.016-1.035,7.35-1.955l3.321,5.755l8.659-4.999l-3.32-5.754
+	c1.989-1.586,3.793-3.391,5.379-5.379l5.754,3.32l4.998-8.658l-5.753-3.322c0.918-2.335,1.572-4.796,1.953-7.351H90z M50.001,74.999
+	C36.193,74.999,25,63.808,25,50C25,36.193,36.193,25,50.001,25c13.808,0,25,11.193,25,24.999
+	C75.001,63.808,63.809,74.999,50.001,74.999z"/>
+<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	58.749,50 63.75,54.998 68.75,50 63.75,54.998 "/>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="50" cy="50" r="25.001"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M63.75,54.998V50c0-7.594-6.158-13.75-13.749-13.75c-7.597,0-13.75,6.155-13.75,13.75c0,7.592,6.153,13.75,13.75,13.75
+	c-7.597,0-13.75-6.157-13.75-13.75c0-7.594,6.153-13.75,13.75-13.75c7.591,0,13.749,6.155,13.749,13.75V54.998z"/>
+</svg>
